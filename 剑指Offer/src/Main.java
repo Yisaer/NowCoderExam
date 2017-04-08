@@ -15,5 +15,7 @@ public class Main {
         Problem2 problem2 = new Problem2();
         System.out.println(problem2.replaceSpace(stringBuffer));
 
+
+
     }
 }
