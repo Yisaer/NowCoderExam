@@ -42,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
@@ -53,6 +53,16 @@
                 <element signature="e#429#438#0" expanded="true" />
                 <element signature="e#478#487#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/Problem2.java" />
         <option value="$PROJECT_DIR$/src/Problem3.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem4.java" />
       </list>
     </option>
   </component>
@@ -599,12 +610,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491623957593</updated>
-      <workItem from="1491623968195" duration="6404000" />
+      <workItem from="1491623968195" duration="7471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6404000" />
+    <option name="totallyTimeSpent" value="7471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -691,6 +702,14 @@
             <element signature="e#429#438#0" expanded="true" />
             <element signature="e#478#487#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
