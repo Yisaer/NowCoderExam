@@ -11,7 +11,7 @@ public class Problem11 {
             if (( n&flag ) !=0){
                 count++;
             }
-            flag = flag <<=1;
+            flag = flag <<1;
         }
 
         return count;
