@@ -21,6 +21,4 @@ public class Problem7  {
             return Fib[n];
         }
     }
-
-
 }
