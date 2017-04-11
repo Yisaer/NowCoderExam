@@ -1,7 +1,7 @@
 /**
  * Created by Yisa on 2017/4/8.
  */
-public class FindInArray {
+public class Problem1 {
     public boolean Find(int target, int [][] array) {
         if( array == null){
             return false;
