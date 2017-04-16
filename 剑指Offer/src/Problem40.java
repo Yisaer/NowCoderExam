@@ -47,4 +47,39 @@ public class Problem40 {
 
         return arrayLists;
     }
+
+    public ArrayList<ArrayList<Integer> > FindContinuousSequence2(int sum) {
+        ArrayList<ArrayList<Integer>> arrayLists = new ArrayList<ArrayList<Integer>>();
+        if(sum < 3){
+            return arrayLists;
+        }
+        int left = 1;
+        int right = 2;
+        int s = (1+sum)/2;
+        int curSum = 3;
+        while(left<s){
+            if(curSum < sum){
+                right++;
+                curSum+=right;
+            }
+            else if(curSum > sum){
+                curSum-=left;
+                left++;
+            }
+            else if( curSum == sum){
+                ArrayList<Integer> arrayList = new ArrayList<Integer>();
+                for(int i =left ; i<=right;i++){
+                    arrayList.add(i);
+                }
+                arrayLists.add(arrayList);
+                curSum -= left;
+                left++;
+                right++;
+                curSum+=right;
+            }
+        }
+
+
+        return arrayLists;
+    }
 }
