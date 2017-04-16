@@ -3,9 +3,9 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-        Problem33 problem33 = new Problem33();
-        String s = "aacdde";
-        int Index = problem33.FirstNotRepeatingChar(s);
-        System.out.println(Index);
+        Problem36 problem36 = new Problem36();
+        int[] arr  ={ 2,3 , 4,4,4,4,5,6};
+        int num = problem36.GetNumberOfK(arr,4);
+        System.out.println(num);
     }
 }
