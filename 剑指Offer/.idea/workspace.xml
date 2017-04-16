@@ -35,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem40.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem40.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem40.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="488">
@@ -45,6 +45,18 @@
                 <element signature="e#1160#1169#0" expanded="true" />
                 <element signature="e#1537#1557#0" expanded="true" />
                 <element signature="e#2042#2051#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem41.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem41.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="e#847#856#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/Problem39.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem40.java" />
+        <option value="$PROJECT_DIR$/src/Problem41.java" />
       </list>
     </option>
   </component>
@@ -648,12 +661,12 @@
       <workItem from="1491978675582" duration="7384000" />
       <workItem from="1492083363069" duration="2754000" />
       <workItem from="1492232028170" duration="13536000" />
-      <workItem from="1492321663675" duration="10962000" />
+      <workItem from="1492321663675" duration="11350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58363000" />
+    <option name="totallyTimeSpent" value="58751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -706,14 +719,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -1182,6 +1187,16 @@
             <element signature="e#1160#1169#0" expanded="true" />
             <element signature="e#1537#1557#0" expanded="true" />
             <element signature="e#2042#2051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#847#856#0" expanded="true" />
           </folding>
         </state>
       </provider>
