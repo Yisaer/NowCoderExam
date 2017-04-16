@@ -25,11 +25,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Problem32.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem32.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem32.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
               <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem33.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem33.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="88" column="5" selection-start-line="55" selection-start-column="3" selection-end-line="88" selection-end-column="5" />
+              <folding>
+                <element signature="e#399#408#0" expanded="true" />
+                <element signature="e#452#461#0" expanded="true" />
+                <element signature="e#515#532#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -84,9 +108,10 @@
         <option value="$PROJECT_DIR$/src/Problem28.java" />
         <option value="$PROJECT_DIR$/src/Problem29.java" />
         <option value="$PROJECT_DIR$/src/Problem30.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem31.java" />
         <option value="$PROJECT_DIR$/src/Problem32.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Problem33.java" />
       </list>
     </option>
   </component>
@@ -625,12 +650,12 @@
       <workItem from="1491978675582" duration="7384000" />
       <workItem from="1492083363069" duration="2754000" />
       <workItem from="1492232028170" duration="13536000" />
-      <workItem from="1492321663675" duration="2596000" />
+      <workItem from="1492321663675" duration="3980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49997000" />
+    <option name="totallyTimeSpent" value="51381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -683,14 +708,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1125,19 +1142,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem32.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="88" column="5" selection-start-line="55" selection-start-column="3" selection-end-line="88" selection-end-column="5" />
+          <folding>
+            <element signature="e#399#408#0" expanded="true" />
+            <element signature="e#452#461#0" expanded="true" />
+            <element signature="e#515#532#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
