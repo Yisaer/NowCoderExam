@@ -48,16 +48,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem58.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem58.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem58.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="-526">
               <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#474#484#0" expanded="true" />
                 <element signature="e#570#590#0" expanded="true" />
                 <element signature="e#818#827#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem59.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem59.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#456#476#0" expanded="true" />
+                <element signature="e#589#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problem11.java" />
         <option value="$PROJECT_DIR$/src/Problem12.java" />
         <option value="$PROJECT_DIR$/src/Problem13.java" />
         <option value="$PROJECT_DIR$/src/Problem14.java" />
@@ -131,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/Problem57.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Problem58.java" />
+        <option value="$PROJECT_DIR$/src/Problem59.java" />
       </list>
     </option>
   </component>
@@ -673,12 +688,12 @@
       <workItem from="1492432336800" duration="3581000" />
       <workItem from="1492568466383" duration="7992000" />
       <workItem from="1492959046447" duration="1117000" />
-      <workItem from="1493014840914" duration="5338000" />
+      <workItem from="1493014840914" duration="6670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76874000" />
+    <option name="totallyTimeSpent" value="78206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -731,14 +746,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1199,13 +1206,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem58.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="-526">
           <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#474#484#0" expanded="true" />
             <element signature="e#570#590#0" expanded="true" />
             <element signature="e#818#827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem59.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#476#0" expanded="true" />
+            <element signature="e#589#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
