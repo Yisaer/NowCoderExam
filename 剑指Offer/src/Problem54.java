@@ -14,7 +14,7 @@ public class Problem54 {
     }
     public ListNode EntryNodeOfLoop(ListNode pHead)
     {
-        if(pHead == null){
+        if(pHead == null || pHead.next == null) {
             return null;
         }
         ListNode p1 =pHead;
@@ -23,6 +23,13 @@ public class Problem54 {
             p1 = p1.next;
             p2 = p2.next.next;
         }while(p1!=p2);
+        p2  = pHead;
+        while(p1!=p2){
+            p1 = p1.next;
+            p2 = p2.next;
+        }
+
+
         return p1;
     }
 }
